@@ -1,7 +1,7 @@
 # Northwind SQL Queries — Project Showcase
 
 **Author:** Vijayan Naidu (MSc Data Science)
-**Repository:** *(Add your GitHub repo link here)*
+**Repository:** *(https://github.com/vj220803/Northwind-SQL.git)*
 
 ---
 
